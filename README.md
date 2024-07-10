@@ -11,7 +11,7 @@ Fondly called Dev Elo, I am an Aspiring Software Engineer(Full Stack) with a pas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Elo-1505)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Dev-Elo-1505}/count.svg)
 <!---
 Dev-Elo-1505/Dev-Elo-1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
