@@ -23,7 +23,7 @@ Fondly called Dev Elo, I am an Aspiring Software Engineer(Full Stack) with a pas
 - HNG
 - MLH
 - Google Summer of Code
-- International Internship opportunities
+- Internship opportunities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Elo-1505)](https://github.com/anuraghazra/github-readme-stats)
 
