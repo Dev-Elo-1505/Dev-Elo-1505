@@ -25,8 +25,6 @@ Fondly called Dev Elo, I am an Aspiring Software Engineer(Full Stack) with a pas
 - Google Summer of Code
 - Internship opportunities
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Elo-1505)](https://github.com/anuraghazra/github-readme-stats)
-
 Thanks for visiting my profile!😄
 You are now one of my awesome visitors: ![Visitor Count](https://profile-counter.glitch.me/{Dev-Elo-1505}/count.svg)
 <!---
