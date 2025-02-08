@@ -25,6 +25,8 @@ Fondly called Dev Elo, I am an Aspiring Software Engineer(Full Stack) with a pas
 - Google Summer of Code
 - Internship opportunities
 
+[![GitHub Streak](https://streak-stats.demolab.com/?Dev-Elo-1505=DenverCoder1)](https://git.io/streak-stats)
+
 Thanks for visiting my profile!😄
 You are now one of my awesome visitors: ![Visitor Count](https://profile-counter.glitch.me/{Dev-Elo-1505}/count.svg)
 <!---
