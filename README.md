@@ -21,19 +21,17 @@ I am a frontend engineer that loves to build quality softwares that people need.
 - Internship opportunities
 
 ## Stats
------
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Elo-1505)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Elo-1505&layout=compact)](https://github.com/yushi1007)
 
 ## Connect with me
------
 <div id="badges">
   <a href="https://www.linkedin.com/in/addisijoy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="20px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100px"/>
   </a>
   <a href="mailto: elooghenejoy@gmail.com">
-    <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="20px"/>
+    <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="100px"/>
   </a>
 </div>
 
