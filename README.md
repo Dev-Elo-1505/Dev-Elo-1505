@@ -1,34 +1,44 @@
-## Hi I'm Elo-oghene👋, 
-Fondly called Dev Elo, I am an Aspiring Software Engineer(Full Stack) with a passion for building quality softwares that people need. When am not coding, I enjoy staying around friends, reading, catching up on movies or playing a friendly not so friendly game of chess.
+## Hi there, I'm Elo-oghene👋, 
+I am a frontend engineer that loves to build quality softwares that people need. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS. I also enjoy working with bright minded engineers as learning is something i enjoy(sounds cliche but aha, its true).
 
-## Interests
-- Web development🌎
-- Mobile development📱
-- AI & IOT🤖
-- Reading and Learning
+🔭 I’m currently working on [Echo](https://github.com/Dev-Elo-1505/Echo-Frontend)
 
-## Currently Exploring
-- React
-- NextJs
-- ThreeJs
-- and technologies I find in the process
+🌱 I’m presently learning Advanced React and React Native.
 
-## Open to:
+❓ Ask me about anything related to Engineering and Tech Startups.
+
+⚡ Fun fact: I prefer series (not more than 3 seasons) to movies. 
+
+### Open to:
 - building exciting and challenging projects
 - building quality softwares that people need
 - internship opportunities
 - just talking tech
 
-## Talk to me about:
-- HNG
-- MLH
-- Google Summer of Code
+### Talk to me about:
+- Building a startup
+- Tech opportunities (i.e MLH, GSoC, Outreachy)
 - Internship opportunities
 
+## Stats
+*** 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Elo-1505)](https://git.io/streak-stats)
 
-Thanks for visiting my profile!😄
-You are now one of my awesome visitors: ![Visitor Count](https://profile-counter.glitch.me/{Dev-Elo-1505}/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Elo-1505&layout=compact)](https://github.com/yushi1007)
+
+## Connect with me
+***
+<div id="badges">
+  <a href="https://www.linkedin.com/in/addisijoy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: elooghenejoy@gmail.com">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+
 <!---
 Dev-Elo-1505/Dev-Elo-1505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
