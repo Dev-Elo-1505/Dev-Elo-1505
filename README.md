@@ -7,7 +7,7 @@ I am a frontend engineer that loves to build quality softwares that people need.
 
 ❓ Ask me about anything related to Engineering and Tech Startups.
 
-⚡ Fun fact: I prefer series (not more than 3 seasons) to movies. 
+⚡ Fun fact: I name my devices. (my laptop's kesiena) 
 
 ### Open to:
 - building exciting and challenging projects
