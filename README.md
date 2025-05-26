@@ -7,7 +7,7 @@ I am a frontend engineer that loves to build quality softwares that people need.
 
 ❓ Ask me about anything related to Engineering and Tech Startups.
 
-⚡ Fun fact: I name my devices. (my laptop's kesiena) 
+⚡ Fun fact: I read soulful essays on substack. 
 
 ### Open to:
 - building exciting and challenging projects
