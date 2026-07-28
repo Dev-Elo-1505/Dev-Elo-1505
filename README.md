@@ -3,14 +3,14 @@
 I’m a frontend-focused software engineer and Computer Engineering student.  
 I enjoy engineering clean, reliable software that solves real problems, and I’m intentional about growing through deep fundamentals and hands-on building.
 
----
+
 
 ## 🚀 What I’m currently focused on
 - Strengthening my **Data Structures & Algorithms** skills  
 - Building frontend applications with **React, TypeScript, and Tailwind CSS**
 - Expanding my backend foundations with **Node.js, and FastApi**
 
----
+
 
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript, JavaScript, Next.js, Tailwind CSS
@@ -18,7 +18,7 @@ I enjoy engineering clean, reliable software that solves real problems, and I’
 - **Mobile:** React Native
 - **Tools:** Git, GitHub, Vercel
 
----
+
 
 ## 💬 Ask me about
 - Data Structures & Algorithms and **system design**
@@ -26,7 +26,7 @@ I enjoy engineering clean, reliable software that solves real problems, and I’
 - Startups and early-stage product building
 - Hackathons and engineering competitions
 
----
+
 
 ## 🌱 Open to
 - Challenging software engineering projects  
@@ -34,12 +34,12 @@ I enjoy engineering clean, reliable software that solves real problems, and I’
 - Hackathons and collaborative builds  
 - Conversations around product, tech, and ideas
 
----
+
 
 ## ⚡ Fun fact
 I read soulful essays on Substack.
 
----
+
 
 ## 📫 Connect with me
 <div id="badges">
@@ -51,6 +51,6 @@ I read soulful essays on Substack.
   </a>
 </div>
 
----
+
 
 ⭐ Always learning. Always building.
